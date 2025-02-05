@@ -33,7 +33,6 @@ The data was downloaded from UCI Machine Learning Repository using the **ucimlre
 
 ## Methodology
 ### Data Preprocessing
-- **Data Cleaning**: Missing values were handled appropriately, and outliers were addressed.
 - **Feature Engineering**: New features were created based on existing variables to enhance model performance.
 - **Encoding Categorical Variables**: Categorical variables were converted into numerical format using one-hot encoding.
 
